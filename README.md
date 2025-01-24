@@ -50,6 +50,6 @@ The task was to get number of rides from one station to another and present the 
 - [Python - Automating tools](https://github.com/lucjankonopka/automating_tools) 
 
 # 
-[My LinkedIn Profile](https://www.linkedin.com/in/lucjankonopka/)
+[My LinkedIn Profile](https://www.linkedin.com/in/vishal-singh-49856a23b/)
 
-[My Tableau Profile](https://public.tableau.com/app/profile/lucjan.konopka)
+[My Medium Profile](https://medium.com/@vishal_007)
