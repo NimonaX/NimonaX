@@ -4,9 +4,9 @@ Greetings! My name is Vishal, and I'm excited to share my still developing data 
 #
 ### [Web Scrapping - Beautiful Soup](https://github.com/lucjankonopka/web_scrapping)
 
-- Brief overview:   Beautiful Soup tool used to extract data from [official Berlin website](https://www.berlin.de/restaurants/stadtteile/), create a dataset with all restaurants in Berlin and then visualize in form of map of restaurants in Tableau Public.
+- Brief overview:   Beautiful Soup tool used to extract sales data, creating a comprehensive dataset spanning different regions and sales metrics. Develop an interactive Power BI dashboard to visualize and analyze sales performance across various dimensions.
 - Technology used: *python, Beautiful Soup, pandas*
-- Final results: [*interactive map of restaurants in Berlin*](https://public.tableau.com/app/profile/lucjan.konopka/viz/RestaurantsinBerlin/RestaurantsinBerlin)
+- Final results: [*interactive map of restaurants in Berlin*](https://github.com/NimonaX/PowerBI/blob/main/sales/Sales%20data%20KPI.pdf)
 
 ### [Apache Beam - Dataflow Pipeline](https://github.com/lucjankonopka/dataflow_pipeline_bicycles)
 
