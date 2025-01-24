@@ -6,15 +6,9 @@ Greetings! My name is Vishal, and I'm excited to share my still developing data 
 
 - Brief overview:   Beautiful Soup tool used to extract sales data, creating a comprehensive dataset spanning different regions and sales metrics. Develop an interactive Power BI dashboard to visualize and analyze sales performance across various dimensions.
 - Technology used: *python, Beautiful Soup, pandas*
-- Final results: [*interactive map of restaurants in Berlin*](https://github.com/NimonaX/PowerBI/blob/main/sales/Sales%20data%20KPI.pdf)
+- Final results: [*interactive dashboard of sales*](https://github.com/NimonaX/PowerBI/blob/main/sales/Sales%20data%20KPI.pdf)
 
-### [Apache Beam - Dataflow Pipeline](https://github.com/lucjankonopka/dataflow_pipeline_bicycles)
 
-- Brief overview:   Apache Beam model was used to extract, transform and load (ETL) data from BigQuery dataset (bigquery-public-data.london_bicycles.cycle_hire) with some detailed informations about London bicycles to obtain some insight on London cycling behaviour. 
-The task was to get number of rides from one station to another and present the results in form of text file (start_id, end_id, number_of_rides)
-- Technology used: *python, Apache Beam, GCP, Google Cloud SDK Shell*
-- Final results: [*output text file with results*](https://raw.githubusercontent.com/lucjankonopka/dataflow_pipeline_bicycles/main/output.txt)
-  
 ### [Apache Spark - Similar Movies Finder](https://github.com/lucjankonopka/spark-movielens)
 
 - Brief overview:   Apache Spark was used to process a large volume of data by using an EMR cluster on AWS. The objective was to analyze 27 million movie ratings for 58,000 movies provided by 280,000 users and find the most similar movies to a selected movie.
