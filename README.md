@@ -21,27 +21,6 @@ Greetings! My name is Vishal, and I'm excited to share my still developing data 
 - Technology used: *AWS (EC2, S3, Crawler, Amazon Athena), python*
 - Outcome: Continuously uploaded data to an S3 bucket during the program's execution
 
-### [Google Data Analytics Capstone: Complete a Case Study](https://github.com/lucjankonopka/cyclistic_case_study)
-
-- Brief overview: Following case study was completed as part of the [Google Data Analytics Certificate](https://www.credly.com/badges/d8457d2e-06e4-4142-8ea1-4cfd52f24c67/linked_in_profile).
-- Methodology: data preprocessing, data cleaning, data analysis, visualization, making conclusions, creating a strategy proposal
-- Technology used: *python, pandas, matplotlib, numpy, seaborn*
-- Final results: [*analysis & visualisation*](https://github.com/lucjankonopka/cyclistic_case_study/blob/main/How%20Does%20a%20Bike-Share%20%20Navigate%20Speedy%20Success.pdf)
-
-### Others:
-- [SQL - Simple Shop Database](https://github.com/lucjankonopka/sql_shop_database) 
-
-- [SQL - Premier League Team's Performance Analysis](https://github.com/lucjankonopka/sql_premier_league) 
-
-- [Tableau Public - Premier League Teams Performance Analysis](https://public.tableau.com/app/profile/lucjan.konopka/viz/PremierLeagueanalysis_16762432338890/PremierLeagueTeamsAnalysis) 
-
-- [Python/Pandas - Premier League 2010/11 League Table](https://github.com/lucjankonopka/pandas_data_analysis) 
-
-- [Python - Snake Game](https://github.com/lucjankonopka/snake_game_python) 
-
-- [Python - Simple Games](https://github.com/lucjankonopka/simple_python_games) 
-
-- [Python - Automating tools](https://github.com/lucjankonopka/automating_tools) 
 
 # 
 [My LinkedIn Profile](https://www.linkedin.com/in/vishal-singh-49856a23b/)
